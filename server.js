@@ -1,6 +1,6 @@
 function directLineAuth() {
     var myHeaders = new Headers();
-    myHeaders.append("Authorization", "Bearer hy2hBMa6H1A.E6NeR1EuzLrXP-qddjkjxsvo7txkQ7_319GvOqvykNY");
+    myHeaders.append("Authorization", "Bearer 5ulmoIo-WN8.hE8KwGu6Fzc2r3U1LHdP8jD2ZYhQWJmDHECDwh6aVjw");
     var resultJSON = {};
     var token;
     var requestOptions = {
